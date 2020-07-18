@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "657500303293",
+    "firebase_url": "https://pokeapp-c069a.firebaseio.com",
+    "project_id": "pokeapp-c069a",
+    "storage_bucket": "pokeapp-c069a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657500303293:android:f2aea958020cf5b9656cd4",
+        "android_client_info": {
+          "package_name": "com.example.flutte_pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657500303293-jf4j26e7nn1vglco23btf3f07cgdm03i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTc8YDcq_xy76I3a0naUQt6TK9U3uNVNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657500303293-888oq1pb0v57ujsuuf297g3dvec6kk7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657500303293:android:b97e68f0857e430d656cd4",
+        "android_client_info": {
+          "package_name": "com.thealphamerc.flutter_ayudex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657500303293-jf4j26e7nn1vglco23btf3f07cgdm03i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTc8YDcq_xy76I3a0naUQt6TK9U3uNVNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657500303293-888oq1pb0v57ujsuuf297g3dvec6kk7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
